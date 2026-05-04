@@ -475,7 +475,15 @@ gcloud/
 *.json
 
 # ===================================
-# Miscellaneous
+# Documentation & Guides
+SETUP_GUIDE.md
+IMPLEMENTATION_SUMMARY.md
+TESTING_GUIDE.md
+HANDOFF_FLOW_DIAGRAM.md
+PRODUCT_OVERVIEW.md
+PRODUCT_SETUP_GUIDE.md
+WHAT_I_BUILT.md
+CHAT_UI_FORMATTING_GUIDE.md
 # ===================================
 
 # Package lock files (optional - uncomment if you want to ignore)
